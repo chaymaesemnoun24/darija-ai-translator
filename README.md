@@ -12,7 +12,7 @@ Ce projet met en œuvre une architecture hybride :
 ### 📺 Démonstration Vidéo
 
 Voici une vidéo de démonstration (Haute Qualité) sur Google Drive :
-[Coller le lien Google Drive ici](https://drive.google.com/file/d/1cHxvd0o_HXogxc4yuf0zxknkCHEE8m-G/view?usp=sharing)
+[ lien ](https://drive.google.com/file/d/1cHxvd0o_HXogxc4yuf0zxknkCHEE8m-G/view?usp=sharing)
 
 ### ✨ Fonctionnalités
 
