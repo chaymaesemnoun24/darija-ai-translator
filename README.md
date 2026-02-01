@@ -20,6 +20,7 @@ Voici une vidéo de démonstration (Haute Qualité) sur Google Drive :
 - Double interface utilisateur (Web App & Extension Chrome).
 - Intégration directe de l'API Google Gemini.
 - Interface graphique moderne et responsive.
+- Gestion des utilisateurs (Inscription & Connexion sécurisée).
 
 ### 🛠️ Technologies
 
@@ -28,3 +29,8 @@ Voici une vidéo de démonstration (Haute Qualité) sur Google Drive :
 - JavaScript / Manifest V3 (Extension)
 - Google Gemini API (Intelligence Artificielle)
 - IntelliJ IDEA / Maven
+
+### 🔐 Architecture de Sécurité
+
+La sécurité de l'application est intégrée directement dans la couche Backend (Backend-level security).
+L'authentification est gérée implicitement via des **Filtres** (Middleware), garantissant que chaque requête vers l'API Gemini est vérifiée sans surcharger le contrôleur principal.
