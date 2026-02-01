@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Darija Translator",
+  "version": "1.0",
+  "description": "Translate English to Moroccan Darija instantly.",
+  "permissions": ["sidePanel"],
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  }
+}
